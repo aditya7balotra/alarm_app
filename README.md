@@ -255,7 +255,6 @@ Uses SQLite with the following operations:
 
 Handles runtime permissions:
 - Notification permissions
-- Location permissions
 - Vibration permissions
 - File access permissions
 
