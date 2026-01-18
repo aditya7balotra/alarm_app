@@ -1,4 +1,4 @@
-# jai_ganesh
+# Alarm_app
 
 A new Flutter project.
 
